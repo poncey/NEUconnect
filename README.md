@@ -19,5 +19,7 @@ Please enter this code at shell before usage:
 <pre><code>
 export PERL_LWP_SSL_VERIFY_HOSTNAME = 0
 </code></pre>
-## Jan, 2019: Updated with Net::SSL, you may install it before use, [\[link] https://metacpan.org/pod/Net::SSL]()
+## Jan, 2019: Updated with Net::SSL
+You may need to install the Net::SSL package before use. Link [here][1].
 
+[1]:	https://metacpan.org/pod/Net::SSL
