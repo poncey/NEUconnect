@@ -13,9 +13,11 @@ to disconnect enter this:
 perl neuconnect.pl logout
 </code></pre>
 
-## Issue for 'PERL_LWP_SSL_VERIFY_HOSTNAME'
-If the issue raised and it is about PERL_LWP_SSL_VERIFY_HOSTNAME,
+## Issue for 'PERL\_LWP\_SSL\_VERIFY\_HOSTNAME'
+If the issue raised and it is about PERL\_LWP\_SSL\_VERIFY\_HOSTNAME,
 Please enter this code at shell before usage:
 <pre><code>
 export PERL_LWP_SSL_VERIFY_HOSTNAME = 0
 </code></pre>
+## Jan, 2019: Updated with Net::SSL, you may install it before use, [\[link] https://metacpan.org/pod/Net::SSL]()
+
